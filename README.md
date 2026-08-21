@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Rudrakar</h1>
+<h1 align="center">Hi 👋, I'm Rushi Rudrakar</h1>
 <h3 align="center">A Java Back-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-1909&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-1909" /> </p>
