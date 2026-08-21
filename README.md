@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-1909&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-1909" /> </p>
 
-- 💬 Ask me about **I am a passionate Computer Science and Design student who enjoys building practical technology solutions and continuously improving my problem-solving skills. Currently, I am focused on Java, Data Structures & Algorithms, Full-Stack Development, and building real-world projects. I enjoy combining technology, creativity, and problem-solving to create meaningful digital experiences.**
+- 💬 **I am a passionate Computer Science and Design student who enjoys building practical technology solutions and continuously improving my problem-solving skills. Currently, I am focused on Java, Data Structures & Algorithms, Full-Stack Development, and building real-world projects. I enjoy combining technology, creativity, and problem-solving to create meaningful digital experiences.**
 
 - 📫 How to reach me **rushirudakar7@gmail.com**
 
