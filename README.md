@@ -13,9 +13,4 @@
 <a href="https://instagram.com/_rudrakar__rishi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rudrakar__rishi_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.org/" target="_blank" rel="noreferrer"> <img/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi-1909&show_icons=true&locale=en&layout=compact" alt="rishi-1909" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishi-1909&show_icons=true&locale=en" alt="rishi-1909" /></p>
